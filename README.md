@@ -1,4 +1,4 @@
-# Hi, my name is **Kostya Klymovych**! 👋
+# Hi, my name is **Kostya**! 👋
 ## I'm a beginner *Front-end developer* from Kiev.
 ### Check my instagram: [kastast.in](https://www.instagram.com/kastast.in/)
 ### Languages and Technologies
