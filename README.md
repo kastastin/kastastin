@@ -7,3 +7,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ### 💬 Mail me: kostya242421@gmail.com
 ### ⚡ Telegram: [@kastastin](https://t.me/kastastin)
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kastastin&theme=Javascript)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kastastin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
