@@ -7,5 +7,5 @@
 ### 💬 Mail me: kostya242421@gmail.com
 ### ⚡ Telegram: [@kastastin](https://t.me/kastastin)
 ---
-### :fire: My Stats :
+### :fire: Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kastastin&theme=highcontrast&ring=DDEB14&fire=DDEB14&currStreakLabel=DDEB14)](https://git.io/streak-stats)\
